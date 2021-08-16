@@ -7,7 +7,7 @@ I blog at - [https://pwnisher.gitlab.io](https://pwnisher.gitlab.io)
 
 
 [![Twitter: 0xpwnisher](https://img.shields.io/twitter/follow/0xpwnisher?style=social)](https://twitter.com/0xpwnisher)
-[![Linkedin: sudheer-varma](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sudheer-varma-b36826105)](https://in.linkedin.com/in/sudheer-varma-b36826105)
+[![Linkedin: sudheer-varma](https://img.shields.io/badge/-Sudheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sudheer-varma-b36826105)](https://in.linkedin.com/in/sudheer-varma-b36826105)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/pwn1sher)
 
 
