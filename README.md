@@ -4,8 +4,12 @@ I blog at - [https://pwnisher.gitlab.io](https://pwnisher.gitlab.io)
 
 ## Contact
 
-<a href="https://in.linkedin.com/in/sudheer-varma-b36826105" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/0xpwnisher" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+
+[![Twitter: 0xpwnisher](https://img.shields.io/twitter/follow/0xpwnisher?style=social)](https://twitter.com/0xpwnisher)
+[![Linkedin: sudheer-varma](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sudheer-varma-b36826105)](https://in.linkedin.com/in/sudheer-varma-b36826105)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/pwn1sher)
+
 
 
 ## Stats
